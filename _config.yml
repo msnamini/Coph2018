@@ -1,2 +1,7 @@
 theme: jekyll-theme-cayman
 title: Computational Physics 2018
+description: Physics Department, University of Isfahan
+
+navbar-links:
+  Exercises: "#ex"
+  Source Codes: "https://github.com/msnamini/Coph2018"
